@@ -1,0 +1,68 @@
+{
+"name": "PIRATAS DEL CARIBE",
+"image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
+"url": "https://af1cionados.vercel.app/saga PIRATAS DEL CARIBE.w3u",
+"info": "",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+
+	[
+	{
+	"name": "La maldición de la Perla Negra",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+        "url": "https://filemoon.to/d/ra197ogvmbrk/Piratas_del_Caribe._La_maldici_n_de_la_Perla_Negra",
+       	"info": "[2003]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "El cofre del hombre muerto",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+        "url": "https://filemoon.to/d/h5t19n8vzwl9/Piratas_del_Caribe_El_cofre_del_hombre_muerto.mp4",
+       	"info": "[2006]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "En el fin del mundo",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+        "url": "https://filemoon.to/d/4kusa7ckn141/Piratas_del_caribe_En_el_fin_del_mundo",
+       	"info": "[2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "En mareas misteriosas",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/2oOARbiV871kCC27FyKBmYwOM3G.jpg",
+        "url": "https://filemoon.to/d/d54psik40dty/Piratas_del_caribe_En_mareas_misteriosas",
+       	"info": "[2011]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "La venganza de Salazar ",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/net3hZOe33XbieLzVkfJsQEdig2.jpg",
+        "url": "https://filemoon.to/d/7p8pd9plizhv/Piratas_del_Caribe_La_venganza_de_Salazar",
+       	"info": "[2017]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
